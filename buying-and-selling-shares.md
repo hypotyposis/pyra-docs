@@ -10,7 +10,7 @@ On Pyra, investors and fans can trade a creator by buying and selling shares of 
 2. Click the `Trade Share` button. A dialog will pop up. Enter the number you want to buy, share price and total cost will be calculated automatically based on how many are currently circulating. You can buy as many shares as you want.
 3. Click the `Buy` button and confirm the transaction in your wallet.
 
-<figure><img src=".gitbook/assets/2.png" alt="" width = "200"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2.png" alt="" width = "360"><figcaption></figcaption></figure>
 
 ## How to sell a creator's shares
 
@@ -18,7 +18,7 @@ On Pyra, investors and fans can trade a creator by buying and selling shares of 
 2. Click the `Trade Share` button. A dialog will pop up. Enter the number you want to sell, share price and total cost will be calculated automatically based on how many are currently circulating. You can sell as many shares as you want.
 3. Click the `Sell` button and confirm the transaction in your wallet.
 
-<figure><img src=".gitbook/assets/3.png" alt="" width = "200"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3.png" alt="" width = "360"><figcaption></figcaption></figure>
 
 ## Trading fees
 
