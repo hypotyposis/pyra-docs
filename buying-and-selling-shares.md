@@ -5,19 +5,21 @@ On Pyra, investors and fans can trade a creator by buying and selling shares of 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ## How to buy a creator's shares
+
 1. Visit a creator's page. On the right side of the banner, you will see a `Trade Share` button. Share value and holders number are displayed below.
 2. Click the `Trade Share` button. A dialog will pop up. Enter the number you want to buy, share price and total cost will be calculated automatically based on how many are currently circulating. You can buy as many shares as you want.
 3. Click the `Buy` button and confirm the transaction in your wallet.
-4. 
-<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/2.png" alt="" width = "200"><figcaption></figcaption></figure>
 
 ## How to sell a creator's shares
+
 1. Visit a creator's page. On the right side of the banner, you will see a `Trade Share` button. Share value and holders number are displayed below.
 2. Click the `Trade Share` button. A dialog will pop up. Enter the number you want to sell, share price and total cost will be calculated automatically based on how many are currently circulating. You can sell as many shares as you want.
 3. Click the `Sell` button and confirm the transaction in your wallet.
 
-## Trading fees
-Trading fees are charged on every buy and sell transaction. The total fee is 12% of the transaction amount, which is split between creator, platform treasury and an independent [revenue pool](./staking-and-revenue.md) shared by all shareholders.
+<figure><img src=".gitbook/assets/3.png" alt="" width = "200"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+## Trading fees
+
+Trading fees are charged on every buy and sell transaction. The total fee is 12% of the transaction amount, which is split between creator, platform treasury and an independent [revenue pool](./staking-and-revenue.md) shared by all shareholders.
