@@ -1,4 +1,4 @@
 # Table of contents
 
-* [What is Pyra?](README.md)
-* [Page 1](page-1.md)
+* [Pyra docs](README.md)
+* [What is Pyra?](what-is-pyra.md)
