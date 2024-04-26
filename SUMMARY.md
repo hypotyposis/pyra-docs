@@ -5,6 +5,6 @@
 * [Buying and Selling Shares](buying-and-selling-shares.md)
 * [Benefits of Holding Shares](benefits-of-holding-shares.md)
 * [Buying and Selling Keys](buying-and-selling-keys.md)
-* [Profits and Revenue](profits-and-revenue.md)
+* [Staking and Revenue](staking-and-revenue.md)
 * [Tokenomics $PYRA](tokenomics-pyra.md)
 * [Contracts and Security](contracts-and-security.md)
