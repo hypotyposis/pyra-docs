@@ -8,3 +8,4 @@
 * [Staking and Revenue](staking-and-revenue.md)
 * [Tokenomics $PYRA](tokenomics-pyra.md)
 * [Contracts and Security](contracts-and-security.md)
+* [Links](brand-assets-and-links.md)
