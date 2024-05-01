@@ -2,7 +2,7 @@
 
 To get started, visit <https://pyra.wtf> in your desktop browser. The mobile version is coming soon.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-04-26 at 14.13.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 ## Creating an Account
 
